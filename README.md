@@ -14,5 +14,7 @@ With the libraries and Qt version 5.9.5 on Linux x86
 - make
 - execute
 
-The programe expects two folders called obj and textures containing obj files and ppm textures.
+The program has two predefined scenarios (cloth falling on ball, cloth held from two opposing corners) and can turn an obj into a particle cloth object (just falls down and squishes on the floor plane).
 
+![Cloth held at corners](https://media.giphy.com/media/mqr1nzEIWHTtAxXJUq/giphy.gif)
+![Cloth falling on ball](https://media.giphy.com/media/edsKPwQR5rgzkiYQmM/giphy.gif)
